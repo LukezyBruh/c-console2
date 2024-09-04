@@ -1,0 +1,7 @@
+C:\Users\исп-23\source\repos\Практическая 12\Практическая 12\bin\Debug\Практическая 12.exe.config
+C:\Users\исп-23\source\repos\Практическая 12\Практическая 12\bin\Debug\Практическая 12.exe
+C:\Users\исп-23\source\repos\Практическая 12\Практическая 12\bin\Debug\Практическая 12.pdb
+C:\Users\исп-23\source\repos\Практическая 12\Практическая 12\obj\Debug\Практическая 12.csproj.AssemblyReference.cache
+C:\Users\исп-23\source\repos\Практическая 12\Практическая 12\obj\Debug\Практическая 12.csproj.CoreCompileInputs.cache
+C:\Users\исп-23\source\repos\Практическая 12\Практическая 12\obj\Debug\Практическая 12.exe
+C:\Users\исп-23\source\repos\Практическая 12\Практическая 12\obj\Debug\Практическая 12.pdb

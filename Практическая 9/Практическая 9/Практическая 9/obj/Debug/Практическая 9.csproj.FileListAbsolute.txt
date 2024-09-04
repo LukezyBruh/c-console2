@@ -1,0 +1,6 @@
+C:\Users\исп-23\source\repos\Практическая 9\Практическая 9\bin\Debug\Практическая 9.exe.config
+C:\Users\исп-23\source\repos\Практическая 9\Практическая 9\bin\Debug\Практическая 9.exe
+C:\Users\исп-23\source\repos\Практическая 9\Практическая 9\bin\Debug\Практическая 9.pdb
+C:\Users\исп-23\source\repos\Практическая 9\Практическая 9\obj\Debug\Практическая 9.csprojAssemblyReference.cache
+C:\Users\исп-23\source\repos\Практическая 9\Практическая 9\obj\Debug\Практическая 9.exe
+C:\Users\исп-23\source\repos\Практическая 9\Практическая 9\obj\Debug\Практическая 9.pdb
